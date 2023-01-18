@@ -1,0 +1,24 @@
+//Toolbar
+ion-toolbar {
+  --background: transparent;
+  --ion-color-base: transparent !important;
+  --border: none;
+}
+
+//Splashscreen
+
+//Imagen del logo
+#logo{
+  width: 60px;
+  margin: auto;
+  display: block;
+}
+
+//Labels
+#labelNoticias{
+  font-family: "Gotham Thin";
+  position: fixed;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
